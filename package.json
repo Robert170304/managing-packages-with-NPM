@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Robert Macwan",
+	"description": "Not sure project what is this project about yet.",
+	"keywords": ["freecodecamp","NPM"],
+	"license": "MIT",
+	"version": "1.1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
